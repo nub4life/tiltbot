@@ -1,0 +1,25 @@
+{
+  "name": "tiltbot",       
+  "version": "0.0.1",
+  "description": "Wendy's tiltbot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "tmi.js": "^1.5.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/asdfwendyfdsa-tiltbot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "twitch",
+    "chatbots",
+    "irc"
+  ]
+}
