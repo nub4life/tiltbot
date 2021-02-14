@@ -1,3 +1,4 @@
+require('dotenv').config();
 const tmi = require('tmi.js');
 const low = require('lowdb');
 const FileSync = require('lowdb/adapters/FileSync');
