@@ -1,5 +1,5 @@
 {
-  "name": "tiltbot",       
+  "name": "tiltbot",
   "version": "0.0.1",
   "description": "Wendy's tiltbot",
   "main": "bot.js",
@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "tmi.js": "^1.5.0"
+    "tmi.js": "^1.5.0",
+    "lowdb": "^1.0.0"
   },
   "engines": {
     "node": "8.x"
